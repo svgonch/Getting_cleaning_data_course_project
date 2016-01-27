@@ -8,13 +8,8 @@
 * 'test_lab': Test labels.
 * 'train_sub': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 * 'test_sub': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30.
-<<<<<<< HEAD
 
 ## Modified datasets and variables
-
-=======
-## Modified datasets and variables
->>>>>>> ff99f15928f93f7d586c30bb819bf25df43d07f9
 * 'dat': binded rows 'test_dat' and 'train_dat'
 * 'sub': binded rows 'test_sub' and 'train_sub'
 * 'lab': binded rows 'test_lab' and 'train_lab'
